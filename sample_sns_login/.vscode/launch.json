@@ -1,0 +1,12 @@
+{
+    "configurations": [
+
+        {
+            "name": "Flutter (iPhone SE (3rd generation))",
+            "program": "lib/main.dart",
+            "deviceId": "B069DFFE-EA99-4CDB-9FCC-E8A7E140A270",
+            "request": "launch",
+            "type": "dart"
+        }
+    ]
+}
