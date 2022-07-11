@@ -39,6 +39,10 @@ dependencies:
   google_sign_in: ^5.3.3
   cloud_firestore: ^3.2.1
   flutter_facebook_auth: ^4.3.4+2
+  secure_application: ^3.8.0
+  kakao_flutter_sdk_user: ^1.2.1
+  kakao: ^0.0.1
+  sign_in_with_kakao: ^1.0.1
 
 dev_dependencies:
   flutter_test:
